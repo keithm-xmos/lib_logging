@@ -1,7 +1,7 @@
 CPMAddPackage(
     NAME lib_xassert
     GIT_REPOSITORY git@github.com:xmos/lib_xassert
-    GIT_TAG v4.0.0
+    VERSION 4.0.0
     GIT_SHALLOW
     DOWNLOAD_ONLY
 )
