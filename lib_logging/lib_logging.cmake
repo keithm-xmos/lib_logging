@@ -1,11 +1,3 @@
-CPMAddPackage(
-    NAME lib_xassert
-    GIT_REPOSITORY git@github.com:xmos/lib_xassert
-    GIT_TAG v4.0.0
-    GIT_SHALLOW
-    DOWNLOAD_ONLY
-)
-
 set(LIB_LOGGING_FLAGS "-Os")
 
 set(LIB_LOGGING_C_SOURCES
